@@ -1,15 +1,13 @@
 # DAOFAB
- # DAOFAB Coding Assignment Solution
+ # DAOFAB Solution
 
-This repository contains my solution for the DAOFAB coding assignment. I have successfully completed the tasks as per the provided instructions. Here is an overview of my implementation:
-
-## Task 1: Display Parent Transactions
+## 1: Display Parent Transactions
 
 - Implemented a REST API to fetch data and enable server-side pagination.
 - Created a table to display parent transactions.
 - Added the ability to sort the table by parent Id.
 
-## Task 2: Display Children Data
+## 2: Display Children Data
 
 - Implemented a REST API to fetch child data.
 - Created a table to display the children's data.
