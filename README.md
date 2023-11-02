@@ -1,5 +1,4 @@
 # DAOFAB
- # DAOFAB Solution
 
 ## 1: Display Parent Transactions
 
